@@ -1,0 +1,13 @@
+"E:\Programs\IAR\arm\bin\armproc.dll" 
+
+"E:\Programs\IAR\arm\bin\armsim2.dll" 
+
+"E:\Programs\ti\TivaWare_C_Series-2.1.4.178\driverlib\ewarm\Exe\driverlib.out" 
+
+--plugin="E:\Programs\IAR\arm\bin\armbat.dll" 
+
+--device_macro="E:\Programs\IAR\arm\config\debugger\TexasInstruments\TM4C123.dmac" 
+
+
+
+
